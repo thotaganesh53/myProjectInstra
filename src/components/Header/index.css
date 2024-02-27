@@ -1,0 +1,70 @@
+
+.container-Header{
+    height: 8vh;
+    margin-top: -15px;
+    font-family: "Roboto";
+    display: flex;
+    justify-content: space-around;
+}
+.box-1-container{
+    display: flex;
+    align-items: center;
+}
+.logo{
+    width: 60px;
+    height: 30px;
+    margin-right: 10px;
+}
+.heading-desc{
+    color: #262626;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+.navigator-box{
+    width: 37%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.input-search-box{
+    background-color: #FAFAFA;
+    height: 28px;
+    border: none;
+    outline: none;
+    
+}
+.search-box-container{
+    
+    border: solid 1px #DBDBDB;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+}
+.icon-search{
+    width: 40px;
+    padding: 5px;
+    border: none;
+    border-radius: 4px;
+}
+.home-url{
+    
+    font-weight: 500;
+    font-size: 14px;
+    color: #262626;
+    text-decoration: none;
+    
+}
+.button-logout{
+    background-color: #4094EF;
+    color: #ffffff;
+    border-radius: 4px;
+    padding: 8px;
+    border: none;
+    height: 32px;
+    
+}
+
+.header-logo-home{
+    text-decoration: none;
+}

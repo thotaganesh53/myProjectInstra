@@ -1,0 +1,107 @@
+
+.user-container-myprofile{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-top: 20px;
+    
+}
+.user-container-1-1{
+    display: flex;
+}
+.user-container-main-myprofile{
+    margin-top: 15px;
+    height: 100vh;
+    font-family: "Roboto";
+    padding: 10px;
+    background-color: #FAFAFA;
+    color: #262626;
+    display: flex;
+    flex-direction: column;
+    
+}
+.user-profile-image{
+    height: 100px;
+    width: 100px;
+    border-radius: 60px;
+}
+.user-heading-username{
+    font-size: 32px;
+    font-weight: 300;
+}
+.user-descrition-box{
+    
+    display: flex;
+    justify-content: start;
+    font-size: 16px;
+    margin-top: -20px;
+}
+.user-p1{
+    margin-right: 8px;
+}
+.user-user-id{
+    font-weight: 500;
+    font-size: 16px;
+}
+.user-user-bio{
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: -8px;
+    
+}
+.user-container-bio{
+    margin-top: -20px;
+    text-align: left;
+    margin-left: 15px;
+    text-wrap: wrap;
+    
+}
+.user-unorder-my-profile{
+    margin-left: -50px;
+    list-style-type: none;
+    display: flex;
+}
+.user-image-story{
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+    margin: 15px;
+}
+.user-horizontal{
+    width: 100%;
+}
+
+.user-posts-grid{
+    margin-top: -10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+.user-post-heading{
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+.user-image-story-1{
+    width: 150px;
+    height: 140px;
+    margin: 10px;
+}
+.container-of-bio-details{
+    
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+.user-user-id{
+    margin-top: -5px;
+}
+
+.user-no-post-1{
+    font-size: 32px;
+    font-weight: 300;
+    
+}

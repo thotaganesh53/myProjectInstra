@@ -1,0 +1,85 @@
+
+.container-myprofile{
+    line-height: 0.01cm;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-top: 20px;
+    
+    
+}
+.container-1-1{
+    display: flex;
+}
+.container-main-myprofile{
+    margin-top: 15px;
+    height: 100vh;
+    font-family: "Roboto";
+    padding: 10px;
+    background-color: #FAFAFA;
+    color: #262626;
+    display: flex;
+    flex-direction: column;
+    
+}
+.profile-image{
+    height: 100px;
+    width: 100px;
+}
+.heading-username{
+    font-size: 32px;
+    font-weight: 300;
+}
+.descrition-box{
+    margin-left: -10px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 16px;
+}
+.user-id{
+    font-weight: 500;
+    font-size: 16px;
+}
+.user-bio{
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 25px;
+}
+.container-bio{
+    margin-top: -10px;
+    text-align: left;
+    margin-left: 15px;
+    
+}
+.unorder-my-profile{
+    margin-left: -50px;
+    list-style-type: none;
+    display: flex;
+}
+.image-story{
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+    margin: 15px;
+}
+.horizontal{
+    width: 100%;
+}
+
+.posts-grid{
+    margin-top: -10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+.post-heading{
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+.image-story-1{
+    width: 150px;
+    height: 140px;
+    margin: 10px;
+}
